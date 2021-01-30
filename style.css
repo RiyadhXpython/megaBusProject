@@ -57,7 +57,7 @@ nav ul li a:hover, a.active{
     font-weight: 500;
 }
 .booking-form{
-    background-color: #fff;
+    background-color:rosybrown;
     border: 1px solid #ddd;
     padding: 10px;
     border-radius: 5px;
@@ -121,4 +121,13 @@ nav ul li a:hover, a.active{
 .amount{
     display: flex;
     justify-content: space-between;
+}
+#Thank-you{
+    display:none;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: yellow;
+    height: 100vh;
+    
 }
