@@ -124,10 +124,11 @@ nav ul li a:hover, a.active{
 }
 #Thank-you{
     display:none;
-    justify-content: center;
+    padding-left: 230px;
+    justify-content: right;
     align-items: center;
     text-align: center;
-    color: yellow;
+    color: goldenrod;
     height: 100vh;
     
 }
